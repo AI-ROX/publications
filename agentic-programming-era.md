@@ -1,4 +1,4 @@
-# The Agenting Programming Era
+# The Agentic Programming Era
 v1.0 @ 02.2026
 Written by: Andrei Leman & Claude Opus 4.6
 
